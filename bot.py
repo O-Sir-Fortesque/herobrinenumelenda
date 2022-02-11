@@ -185,4 +185,4 @@ async def get_embed(ctx):
 
 
 
-bot.run('OTMzMDQxNTk3ODYyNTE4ODE1.YebwtA.G3aPVRnj1m4tZJQlavDpPNd5aIA')
+bot.run('OTMzMDQxNTk3ODYyNTE4ODE1.YebwtA.OYBPS-kuQtWAr3dBcLkQVzCmrRc')
